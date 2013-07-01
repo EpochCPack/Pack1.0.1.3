@@ -109,7 +109,6 @@ call compile preprocessfile "addons\SHK_pos\shk_pos_init.sqf";								// SHK (Ne
 [] ExecVM "custom\buildings.sqf";															// Extra Charnarus Buildings
 //[] ExecVM "custom\raceday.sqf";															// Coastal Racetrack 1.0
 //[] ExecVM "custom\fightyard.sqf";															// Cherno Fightyard 1.0
-[] ExecVM "custom\bases2.sqf";																// Bases 1.2
 
 // Race Day and the Fightyard are for events, unless you want them as default.
 // Updates and additons on these will be posted seperate and included in future updates.
